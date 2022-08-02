@@ -1,6 +1,6 @@
 #expressions.github.io
 # Face Recognition
-This web app has been built as a submission for the Microsoft Engage Mentorship(Face Recognition) Challenge. The Face-Detection uses [Face API](https://justadudewhohacks.github.io/face-api.js/docs/index.html), which is a JavaScript API for real-time face detection. This also implements facial landmark detection, along with Face Expression Recognition (for example: sad, angry, happy, surprised).
+This web app uses [Face API](https://justadudewhohacks.github.io/face-api.js/docs/index.html), which is a JavaScript API for real-time face detection. This also implements facial landmark detection, along with Face Expression Recognition (for example: sad, angry, happy, surprised).
 ## Installation
 * **[Download and install node.js](https://nodejs.org/en/)**
 * **Next install NPM's live server**
