@@ -25,5 +25,3 @@ When you're ready to turn your web camera on for real-time Face Recognition, Cli
 A square box on top of the image detects the face , the expression on the bottom and a number on the top of the face represents the probability that the object is in fact a face.
 
 ![alt text](img.jpg)
-## Acknowledgement
-My mentor Yash was a huge help and as this was built during my final exams, interaction with him during the meetings motivated me to finish the project.  
